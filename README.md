@@ -1,7 +1,7 @@
 # Desafio Docker GoLang!
 
 Este é um exemplo de como criar uma imagem Docker para um programa em Go que imprime a mensagem "FullCycle Rocks" na saída padrão.
-O Desafio também exigia que a imagem fosse mnor que 2MB
+O Desafio também exigia que a imagem fosse menor que 2MB
 
 Após clonar o repositório:
 
